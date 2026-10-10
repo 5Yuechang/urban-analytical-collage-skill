@@ -1,0 +1,5 @@
+interface:
+  display_name: "城市分析拼贴"
+  short_description: "把照片强风格化为建筑作品集拼贴与城市分析图"
+  brand_color: "#A47C45"
+  default_prompt: "Use $urban-analytical-collage to strongly deconstruct my image into an architecture-portfolio analytical collage."
