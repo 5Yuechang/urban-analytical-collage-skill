@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "urban-analytical-collage",
+  "version": "1.0.0",
+  "description": "Transform architecture, streetscape, landscape, site, and historical photos into architecture-portfolio analytical collages, urban analysis strips, and chronological timelines.",
+  "author": {
+    "name": "5Yuechang",
+    "url": "https://github.com/5Yuechang"
+  },
+  "homepage": "https://github.com/5Yuechang/urban-analytical-collage-skill",
+  "repository": "https://github.com/5Yuechang/urban-analytical-collage-skill",
+  "license": "MIT",
+  "keywords": [
+    "architecture",
+    "collage",
+    "urban-analysis",
+    "portfolio",
+    "image-generation"
+  ]
+}
