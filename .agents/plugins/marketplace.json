@@ -1,0 +1,20 @@
+{
+  "name": "urban-analytical-collage-marketplace",
+  "interface": {
+    "displayName": "Urban Analytical Collage"
+  },
+  "plugins": [
+    {
+      "name": "urban-analytical-collage",
+      "source": {
+        "source": "local",
+        "path": "./plugins/urban-analytical-collage"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
